@@ -1,5 +1,10 @@
 # SE2
 
+## Generall Information
+This was a group project aimed at facilitating interaction between employees and employers. Please note that due to incorrect merge requests, this code does not run as intended. However, it provides a general overview of what I have worked on.
+
+My tasks included the implementation of the login and registration up to the backend, as well as other internal connections within the session.
+
 ## General
 ![image](https://github.com/Fabian0501/SE2/assets/123241856/7c7ecf62-4ba6-465d-8640-6da4552409a7)
 ![image](https://github.com/Fabian0501/SE2/assets/123241856/367dacb3-fa87-4862-aecb-105b76f43046)
